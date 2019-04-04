@@ -1,0 +1,12 @@
+it/extrasys/tesi/tagsystem/user_service/db/jpa/entity/UserEntity.class
+it/extrasys/tesi/tagsystem/user_service/db/jpa/dao/UserDao.class
+it/extrasys/tesi/tagsystem/user_service/api/LoginDto.class
+it/extrasys/tesi/tagsystem/user_service/api/UserDto.class
+it/extrasys/tesi/tagsystem/user_service/resources/UserController.class
+it/extrasys/tesi/tagsystem/user_service/api/NfcUpdateDto.class
+it/extrasys/tesi/tagsystem/user_service/api/NfcTagDto.class
+it/extrasys/tesi/tagsystem/user_service/db/manager/UserManagerImpl.class
+it/extrasys/tesi/tagsystem/user_service/db/jpa/dao/NfcDao.class
+it/extrasys/tesi/tagsystem/user_service/db/manager/UserManager.class
+it/extrasys/tesi/tagsystem/user_service/UserManagingApplication.class
+it/extrasys/tesi/tagsystem/user_service/db/jpa/entity/NfcTagEntity.class

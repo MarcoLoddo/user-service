@@ -1,0 +1,29 @@
+---
+apiVersion: v1
+kind: Service
+metadata:
+  annotations:
+    fabric8.io/git-commit: aad5c8f8294ee78cfef500621c89be00e6517200
+    prometheus.io/port: "9779"
+    fabric8.io/scm-url: https://github.com/spring-projects/spring-boot/spring-boot-starter-parent/user-service
+    fabric8.io/iconUrl: img/icons/camel.svg
+    fabric8.io/git-branch: master
+    prometheus.io/scrape: "true"
+    fabric8.io/scm-tag: HEAD
+  labels:
+    expose: "true"
+    app: user-service
+    provider: fabric8
+    version: 0.0.1-SNAPSHOT
+    group: it.extrasys.tesi.tagsystem
+  name: user-service
+spec:
+  ports:
+  - name: http
+    port: 8080
+    protocol: TCP
+    targetPort: 8080
+  selector:
+    app: user-service
+    provider: fabric8
+    group: it.extrasys.tesi.tagsystem

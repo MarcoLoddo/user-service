@@ -1,0 +1,12 @@
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/db/jpa/dao/NfcDao.java
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/db/jpa/dao/UserDao.java
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/api/NfcTagDto.java
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/db/manager/UserManager.java
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/resources/UserController.java
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/UserManagingApplication.java
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/db/jpa/entity/UserEntity.java
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/api/UserDto.java
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/db/manager/UserManagerImpl.java
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/db/jpa/entity/NfcTagEntity.java
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/api/LoginDto.java
+/media/marco/116bb604-c350-4930-9024-5d9df9c2a03e/Tagsystem-openshift/user_service/src/main/java/it/extrasys/tesi/tagsystem/user_service/api/NfcUpdateDto.java

@@ -1,0 +1,15 @@
+---
+apiVersion: v1
+kind: List
+items:
+- apiVersion: image.openshift.io/v1
+  kind: ImageStream
+  metadata:
+    name: user-service
+  spec:
+    tags:
+    - from:
+        kind: ImageStreamImage
+        name: user-service@sha256:7284a97ddfcf73d13fced86d6c2cbab8e91727bee52e4311bed22e6c754f0075
+        namespace: tagsystem
+      name: latest
